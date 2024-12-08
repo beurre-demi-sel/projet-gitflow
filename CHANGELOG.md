@@ -1,5 +1,4 @@
 # Changelog
-
 2024-12-08
 - Ajout d'une page d'accueil.
 - Ajout d'une page de contact.
