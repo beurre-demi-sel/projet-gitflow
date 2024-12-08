@@ -1,12 +1,11 @@
 # Changelog
 
-## [1.0.0] - 2024-12-08
-### Added
+2024-12-08
 - Ajout d'une page d'accueil.
 - Ajout d'une page de contact.
 
-### Fixed
+# fixer
 - Correction de divers bugs d'affichage.
 
-### Changed
+# Changer
 - Amélioration de la structure du projet.
